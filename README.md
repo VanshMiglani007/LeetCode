@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/VanshMiglani007/LeetCode/tree/master/0258-add-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/VanshMiglani007/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
 |  |
@@ -44,9 +45,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/VanshMiglani007/LeetCode/tree/master/0258-add-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/VanshMiglani007/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/VanshMiglani007/LeetCode/tree/master/0258-add-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/VanshMiglani007/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
