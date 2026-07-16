@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/VanshMiglani007/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
+| [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/VanshMiglani007/LeetCode/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -52,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/VanshMiglani007/LeetCode/tree/master/0258-add-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/VanshMiglani007/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Hash Table
+|  |
+| ------- |
+| [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/VanshMiglani007/LeetCode/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
