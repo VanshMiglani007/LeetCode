@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/VanshMiglani007/LeetCode/tree/master/0053-maximum-subarray) |
 | [1383-maximum-performance-of-a-team](https://github.com/VanshMiglani007/LeetCode/tree/master/1383-maximum-performance-of-a-team) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/VanshMiglani007/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3301-maximize-the-total-height-of-unique-towers](https://github.com/VanshMiglani007/LeetCode/tree/master/3301-maximize-the-total-height-of-unique-towers) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/VanshMiglani007/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Math
 |  |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1383-maximum-performance-of-a-team](https://github.com/VanshMiglani007/LeetCode/tree/master/1383-maximum-performance-of-a-team) |
+| [3301-maximize-the-total-height-of-unique-towers](https://github.com/VanshMiglani007/LeetCode/tree/master/3301-maximize-the-total-height-of-unique-towers) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/VanshMiglani007/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
 |  |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1383-maximum-performance-of-a-team](https://github.com/VanshMiglani007/LeetCode/tree/master/1383-maximum-performance-of-a-team) |
+| [3301-maximize-the-total-height-of-unique-towers](https://github.com/VanshMiglani007/LeetCode/tree/master/3301-maximize-the-total-height-of-unique-towers) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
