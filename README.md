@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0006-zigzag-conversion](https://github.com/VanshMiglani007/LeetCode/tree/master/0006-zigzag-conversion) |
 | [0771-jewels-and-stones](https://github.com/VanshMiglani007/LeetCode/tree/master/0771-jewels-and-stones) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/VanshMiglani007/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/VanshMiglani007/LeetCode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 ## Binary Search
 |  |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/VanshMiglani007/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1383-maximum-performance-of-a-team](https://github.com/VanshMiglani007/LeetCode/tree/master/1383-maximum-performance-of-a-team) |
 | [3301-maximize-the-total-height-of-unique-towers](https://github.com/VanshMiglani007/LeetCode/tree/master/3301-maximize-the-total-height-of-unique-towers) |
 ## Heap (Priority Queue)
@@ -110,4 +112,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/VanshMiglani007/LeetCode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
+## Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/VanshMiglani007/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/VanshMiglani007/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->
