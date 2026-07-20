@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/VanshMiglani007/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0053-maximum-subarray](https://github.com/VanshMiglani007/LeetCode/tree/master/0053-maximum-subarray) |
+| [0918-maximum-sum-circular-subarray](https://github.com/VanshMiglani007/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1383-maximum-performance-of-a-team](https://github.com/VanshMiglani007/LeetCode/tree/master/1383-maximum-performance-of-a-team) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/VanshMiglani007/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/VanshMiglani007/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -99,10 +100,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/VanshMiglani007/LeetCode/tree/master/0053-maximum-subarray) |
+| [0918-maximum-sum-circular-subarray](https://github.com/VanshMiglani007/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/VanshMiglani007/LeetCode/tree/master/0053-maximum-subarray) |
+| [0918-maximum-sum-circular-subarray](https://github.com/VanshMiglani007/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Greedy
 |  |
 | ------- |
@@ -133,4 +136,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/VanshMiglani007/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
+## Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/VanshMiglani007/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/VanshMiglani007/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
