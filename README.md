@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0172-factorial-trailing-zeroes](https://github.com/VanshMiglani007/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0258-add-digits](https://github.com/VanshMiglani007/LeetCode/tree/master/0258-add-digits) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/VanshMiglani007/LeetCode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1551-minimum-operations-to-make-array-equal](https://github.com/VanshMiglani007/LeetCode/tree/master/1551-minimum-operations-to-make-array-equal) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/VanshMiglani007/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/VanshMiglani007/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
