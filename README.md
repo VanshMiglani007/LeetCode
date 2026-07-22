@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/VanshMiglani007/LeetCode/tree/master/0771-jewels-and-stones) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/VanshMiglani007/LeetCode/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [3335-total-characters-in-string-after-transformations-i](https://github.com/VanshMiglani007/LeetCode/tree/master/3335-total-characters-in-string-after-transformations-i) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/VanshMiglani007/LeetCode/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## String
 |  |
 | ------- |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1221-split-a-string-in-balanced-strings](https://github.com/VanshMiglani007/LeetCode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/VanshMiglani007/LeetCode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [3335-total-characters-in-string-after-transformations-i](https://github.com/VanshMiglani007/LeetCode/tree/master/3335-total-characters-in-string-after-transformations-i) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/VanshMiglani007/LeetCode/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Binary Search
 |  |
 | ------- |
