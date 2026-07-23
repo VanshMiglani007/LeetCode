@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/VanshMiglani007/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0989-add-to-array-form-of-integer](https://github.com/VanshMiglani007/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
 | [1383-maximum-performance-of-a-team](https://github.com/VanshMiglani007/LeetCode/tree/master/1383-maximum-performance-of-a-team) |
+| [1480-running-sum-of-1d-array](https://github.com/VanshMiglani007/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/VanshMiglani007/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/VanshMiglani007/LeetCode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/VanshMiglani007/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1480-running-sum-of-1d-array](https://github.com/VanshMiglani007/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/VanshMiglani007/LeetCode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 ## Combinatorics
 |  |
