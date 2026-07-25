@@ -1,16 +1,21 @@
 class Solution {
 public:
     int maxProduct(int n) {
-        vector<int>arr;
-        while(n>0){
-            int rem=n%10;
-            n/=10;
-            arr.push_back(rem);
+        int first = 0, second = 0;
+
+        while (n > 0) {
+            int d = n % 10;
+
+            if (d >= first) {
+                second = first;
+                first = d;
+            } else if (d > second) {
+                second = d;
+            }
+
+            n /= 10;
         }
-        int maxi=*max_element(arr.begin(),arr.end());
-        auto it = find(arr.begin(), arr.end(), maxi);
-        arr.erase(it);
-        int maxi2=*max_element(arr.begin(),arr.end());
-        return maxi*maxi2;
+
+        return first * second;
     }
 };
