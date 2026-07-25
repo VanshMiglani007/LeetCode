@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/VanshMiglani007/LeetCode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/VanshMiglani007/LeetCode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/VanshMiglani007/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/VanshMiglani007/LeetCode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3301-maximize-the-total-height-of-unique-towers](https://github.com/VanshMiglani007/LeetCode/tree/master/3301-maximize-the-total-height-of-unique-towers) |
 | [3467-transform-array-by-parity](https://github.com/VanshMiglani007/LeetCode/tree/master/3467-transform-array-by-parity) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/VanshMiglani007/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1551-minimum-operations-to-make-array-equal](https://github.com/VanshMiglani007/LeetCode/tree/master/1551-minimum-operations-to-make-array-equal) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/VanshMiglani007/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/VanshMiglani007/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/VanshMiglani007/LeetCode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3335-total-characters-in-string-after-transformations-i](https://github.com/VanshMiglani007/LeetCode/tree/master/3335-total-characters-in-string-after-transformations-i) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/VanshMiglani007/LeetCode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/VanshMiglani007/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/VanshMiglani007/LeetCode/tree/master/0258-add-digits) |
 | [2553-separate-the-digits-in-an-array](https://github.com/VanshMiglani007/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/VanshMiglani007/LeetCode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/VanshMiglani007/LeetCode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/VanshMiglani007/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3925-concatenate-array-with-reverse](https://github.com/VanshMiglani007/LeetCode/tree/master/3925-concatenate-array-with-reverse) |
@@ -174,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/VanshMiglani007/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [1383-maximum-performance-of-a-team](https://github.com/VanshMiglani007/LeetCode/tree/master/1383-maximum-performance-of-a-team) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/VanshMiglani007/LeetCode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Counting
 |  |
 | ------- |
