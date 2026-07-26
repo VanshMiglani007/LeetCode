@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/VanshMiglani007/LeetCode/tree/master/0053-maximum-subarray) |
 | [0496-next-greater-element-i](https://github.com/VanshMiglani007/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/VanshMiglani007/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/VanshMiglani007/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/VanshMiglani007/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0724-find-pivot-index](https://github.com/VanshMiglani007/LeetCode/tree/master/0724-find-pivot-index) |
 | [0918-maximum-sum-circular-subarray](https://github.com/VanshMiglani007/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0172-factorial-trailing-zeroes](https://github.com/VanshMiglani007/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0258-add-digits](https://github.com/VanshMiglani007/LeetCode/tree/master/0258-add-digits) |
+| [0628-maximum-product-of-three-numbers](https://github.com/VanshMiglani007/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0989-add-to-array-form-of-integer](https://github.com/VanshMiglani007/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/VanshMiglani007/LeetCode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1551-minimum-operations-to-make-array-equal](https://github.com/VanshMiglani007/LeetCode/tree/master/1551-minimum-operations-to-make-array-equal) |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/VanshMiglani007/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/VanshMiglani007/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [1383-maximum-performance-of-a-team](https://github.com/VanshMiglani007/LeetCode/tree/master/1383-maximum-performance-of-a-team) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/VanshMiglani007/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
