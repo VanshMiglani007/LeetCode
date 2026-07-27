@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1108-defanging-an-ip-address](https://github.com/VanshMiglani007/LeetCode/tree/master/1108-defanging-an-ip-address) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/VanshMiglani007/LeetCode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/VanshMiglani007/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/VanshMiglani007/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/VanshMiglani007/LeetCode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/VanshMiglani007/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/VanshMiglani007/LeetCode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1221-split-a-string-in-balanced-strings](https://github.com/VanshMiglani007/LeetCode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1383-maximum-performance-of-a-team](https://github.com/VanshMiglani007/LeetCode/tree/master/1383-maximum-performance-of-a-team) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/VanshMiglani007/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/VanshMiglani007/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [3301-maximize-the-total-height-of-unique-towers](https://github.com/VanshMiglani007/LeetCode/tree/master/3301-maximize-the-total-height-of-unique-towers) |
 ## Heap (Priority Queue)
 |  |
