@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/VanshMiglani007/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3536-maximum-product-of-two-digits](https://github.com/VanshMiglani007/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/VanshMiglani007/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3894-traffic-signal-color](https://github.com/VanshMiglani007/LeetCode/tree/master/3894-traffic-signal-color) |
 | [3895-count-digit-appearances](https://github.com/VanshMiglani007/LeetCode/tree/master/3895-count-digit-appearances) |
 ## Two Pointers
 |  |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/VanshMiglani007/LeetCode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/VanshMiglani007/LeetCode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/VanshMiglani007/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3894-traffic-signal-color](https://github.com/VanshMiglani007/LeetCode/tree/master/3894-traffic-signal-color) |
 | [3925-concatenate-array-with-reverse](https://github.com/VanshMiglani007/LeetCode/tree/master/3925-concatenate-array-with-reverse) |
 ## Number Theory
 |  |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/VanshMiglani007/LeetCode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3527-find-the-most-common-response](https://github.com/VanshMiglani007/LeetCode/tree/master/3527-find-the-most-common-response) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/VanshMiglani007/LeetCode/tree/master/3760-maximum-substrings-with-distinct-start) |
+| [3894-traffic-signal-color](https://github.com/VanshMiglani007/LeetCode/tree/master/3894-traffic-signal-color) |
 ## Binary Search
 |  |
 | ------- |
