@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/VanshMiglani007/LeetCode/tree/master/0258-add-digits) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/VanshMiglani007/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2553-separate-the-digits-in-an-array](https://github.com/VanshMiglani007/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
+| [3174-clear-digits](https://github.com/VanshMiglani007/LeetCode/tree/master/3174-clear-digits) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/VanshMiglani007/LeetCode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/VanshMiglani007/LeetCode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/VanshMiglani007/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/VanshMiglani007/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/VanshMiglani007/LeetCode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/VanshMiglani007/LeetCode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
+| [3174-clear-digits](https://github.com/VanshMiglani007/LeetCode/tree/master/3174-clear-digits) |
 | [3335-total-characters-in-string-after-transformations-i](https://github.com/VanshMiglani007/LeetCode/tree/master/3335-total-characters-in-string-after-transformations-i) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/VanshMiglani007/LeetCode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/VanshMiglani007/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/VanshMiglani007/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/VanshMiglani007/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/VanshMiglani007/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [3174-clear-digits](https://github.com/VanshMiglani007/LeetCode/tree/master/3174-clear-digits) |
 ## Monotonic Stack
 |  |
 | ------- |
