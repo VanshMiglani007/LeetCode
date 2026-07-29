@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/VanshMiglani007/LeetCode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/VanshMiglani007/LeetCode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/VanshMiglani007/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2942-find-words-containing-character](https://github.com/VanshMiglani007/LeetCode/tree/master/2942-find-words-containing-character) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/VanshMiglani007/LeetCode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3301-maximize-the-total-height-of-unique-towers](https://github.com/VanshMiglani007/LeetCode/tree/master/3301-maximize-the-total-height-of-unique-towers) |
 | [3467-transform-array-by-parity](https://github.com/VanshMiglani007/LeetCode/tree/master/3467-transform-array-by-parity) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/VanshMiglani007/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/VanshMiglani007/LeetCode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/VanshMiglani007/LeetCode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
+| [2942-find-words-containing-character](https://github.com/VanshMiglani007/LeetCode/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/VanshMiglani007/LeetCode/tree/master/3110-score-of-a-string) |
 | [3174-clear-digits](https://github.com/VanshMiglani007/LeetCode/tree/master/3174-clear-digits) |
 | [3335-total-characters-in-string-after-transformations-i](https://github.com/VanshMiglani007/LeetCode/tree/master/3335-total-characters-in-string-after-transformations-i) |
