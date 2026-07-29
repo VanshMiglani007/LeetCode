@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/VanshMiglani007/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/VanshMiglani007/LeetCode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/VanshMiglani007/LeetCode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
+| [3110-score-of-a-string](https://github.com/VanshMiglani007/LeetCode/tree/master/3110-score-of-a-string) |
 | [3174-clear-digits](https://github.com/VanshMiglani007/LeetCode/tree/master/3174-clear-digits) |
 | [3335-total-characters-in-string-after-transformations-i](https://github.com/VanshMiglani007/LeetCode/tree/master/3335-total-characters-in-string-after-transformations-i) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/VanshMiglani007/LeetCode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
