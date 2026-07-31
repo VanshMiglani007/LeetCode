@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VanshMiglani007/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/VanshMiglani007/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/VanshMiglani007/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3794-reverse-string-prefix](https://github.com/VanshMiglani007/LeetCode/tree/master/3794-reverse-string-prefix) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/VanshMiglani007/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
 |  |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/VanshMiglani007/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3527-find-the-most-common-response](https://github.com/VanshMiglani007/LeetCode/tree/master/3527-find-the-most-common-response) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/VanshMiglani007/LeetCode/tree/master/3760-maximum-substrings-with-distinct-start) |
+| [3794-reverse-string-prefix](https://github.com/VanshMiglani007/LeetCode/tree/master/3794-reverse-string-prefix) |
 | [3894-traffic-signal-color](https://github.com/VanshMiglani007/LeetCode/tree/master/3894-traffic-signal-color) |
 ## Binary Search
 |  |
