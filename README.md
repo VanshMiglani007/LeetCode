@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VanshMiglani007/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/VanshMiglani007/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [2000-reverse-prefix-of-word](https://github.com/VanshMiglani007/LeetCode/tree/master/2000-reverse-prefix-of-word) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/VanshMiglani007/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3794-reverse-string-prefix](https://github.com/VanshMiglani007/LeetCode/tree/master/3794-reverse-string-prefix) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/VanshMiglani007/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/VanshMiglani007/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/VanshMiglani007/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/VanshMiglani007/LeetCode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [2000-reverse-prefix-of-word](https://github.com/VanshMiglani007/LeetCode/tree/master/2000-reverse-prefix-of-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/VanshMiglani007/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/VanshMiglani007/LeetCode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/VanshMiglani007/LeetCode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/VanshMiglani007/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/VanshMiglani007/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/VanshMiglani007/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [2000-reverse-prefix-of-word](https://github.com/VanshMiglani007/LeetCode/tree/master/2000-reverse-prefix-of-word) |
 | [3174-clear-digits](https://github.com/VanshMiglani007/LeetCode/tree/master/3174-clear-digits) |
 ## Monotonic Stack
 |  |
