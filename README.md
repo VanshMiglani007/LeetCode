@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/VanshMiglani007/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/VanshMiglani007/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/VanshMiglani007/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/VanshMiglani007/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3301-maximize-the-total-height-of-unique-towers](https://github.com/VanshMiglani007/LeetCode/tree/master/3301-maximize-the-total-height-of-unique-towers) |
 | [3467-transform-array-by-parity](https://github.com/VanshMiglani007/LeetCode/tree/master/3467-transform-array-by-parity) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/VanshMiglani007/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/VanshMiglani007/LeetCode/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/VanshMiglani007/LeetCode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/VanshMiglani007/LeetCode/tree/master/2053-kth-distinct-string-in-an-array) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/VanshMiglani007/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/VanshMiglani007/LeetCode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3335-total-characters-in-string-after-transformations-i](https://github.com/VanshMiglani007/LeetCode/tree/master/3335-total-characters-in-string-after-transformations-i) |
 | [3527-find-the-most-common-response](https://github.com/VanshMiglani007/LeetCode/tree/master/3527-find-the-most-common-response) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/VanshMiglani007/LeetCode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2942-find-words-containing-character](https://github.com/VanshMiglani007/LeetCode/tree/master/2942-find-words-containing-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/VanshMiglani007/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/VanshMiglani007/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3110-score-of-a-string](https://github.com/VanshMiglani007/LeetCode/tree/master/3110-score-of-a-string) |
 | [3174-clear-digits](https://github.com/VanshMiglani007/LeetCode/tree/master/3174-clear-digits) |
 | [3335-total-characters-in-string-after-transformations-i](https://github.com/VanshMiglani007/LeetCode/tree/master/3335-total-characters-in-string-after-transformations-i) |
@@ -215,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/VanshMiglani007/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/VanshMiglani007/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/VanshMiglani007/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/VanshMiglani007/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3301-maximize-the-total-height-of-unique-towers](https://github.com/VanshMiglani007/LeetCode/tree/master/3301-maximize-the-total-height-of-unique-towers) |
 ## Heap (Priority Queue)
 |  |
@@ -232,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/VanshMiglani007/LeetCode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/VanshMiglani007/LeetCode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/VanshMiglani007/LeetCode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/VanshMiglani007/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3335-total-characters-in-string-after-transformations-i](https://github.com/VanshMiglani007/LeetCode/tree/master/3335-total-characters-in-string-after-transformations-i) |
 | [3467-transform-array-by-parity](https://github.com/VanshMiglani007/LeetCode/tree/master/3467-transform-array-by-parity) |
 | [3527-find-the-most-common-response](https://github.com/VanshMiglani007/LeetCode/tree/master/3527-find-the-most-common-response) |
