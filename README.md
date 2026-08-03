@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/VanshMiglani007/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/VanshMiglani007/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0724-find-pivot-index](https://github.com/VanshMiglani007/LeetCode/tree/master/0724-find-pivot-index) |
+| [0804-unique-morse-code-words](https://github.com/VanshMiglani007/LeetCode/tree/master/0804-unique-morse-code-words) |
 | [0877-stone-game](https://github.com/VanshMiglani007/LeetCode/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/VanshMiglani007/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0989-add-to-array-form-of-integer](https://github.com/VanshMiglani007/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/VanshMiglani007/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0692-top-k-frequent-words](https://github.com/VanshMiglani007/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0771-jewels-and-stones](https://github.com/VanshMiglani007/LeetCode/tree/master/0771-jewels-and-stones) |
+| [0804-unique-morse-code-words](https://github.com/VanshMiglani007/LeetCode/tree/master/0804-unique-morse-code-words) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/VanshMiglani007/LeetCode/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1207-unique-number-of-occurrences](https://github.com/VanshMiglani007/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/VanshMiglani007/LeetCode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/VanshMiglani007/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0692-top-k-frequent-words](https://github.com/VanshMiglani007/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0771-jewels-and-stones](https://github.com/VanshMiglani007/LeetCode/tree/master/0771-jewels-and-stones) |
+| [0804-unique-morse-code-words](https://github.com/VanshMiglani007/LeetCode/tree/master/0804-unique-morse-code-words) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/VanshMiglani007/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/VanshMiglani007/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/VanshMiglani007/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
