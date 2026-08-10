@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3731-find-missing-elements](https://github.com/VanshMiglani007/LeetCode/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/VanshMiglani007/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3895-count-digit-appearances](https://github.com/VanshMiglani007/LeetCode/tree/master/3895-count-digit-appearances) |
+| [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/VanshMiglani007/LeetCode/tree/master/3896-minimum-operations-to-transform-array-into-alternating-prime) |
 | [3925-concatenate-array-with-reverse](https://github.com/VanshMiglani007/LeetCode/tree/master/3925-concatenate-array-with-reverse) |
 ## Math
 |  |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/VanshMiglani007/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3894-traffic-signal-color](https://github.com/VanshMiglani007/LeetCode/tree/master/3894-traffic-signal-color) |
 | [3895-count-digit-appearances](https://github.com/VanshMiglani007/LeetCode/tree/master/3895-count-digit-appearances) |
+| [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/VanshMiglani007/LeetCode/tree/master/3896-minimum-operations-to-transform-array-into-alternating-prime) |
 | [3945-digit-frequency-score](https://github.com/VanshMiglani007/LeetCode/tree/master/3945-digit-frequency-score) |
 ## Two Pointers
 |  |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/VanshMiglani007/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3794-reverse-string-prefix](https://github.com/VanshMiglani007/LeetCode/tree/master/3794-reverse-string-prefix) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/VanshMiglani007/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/VanshMiglani007/LeetCode/tree/master/3896-minimum-operations-to-transform-array-into-alternating-prime) |
 ## Sorting
 |  |
 | ------- |
@@ -144,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3536-maximum-product-of-two-digits](https://github.com/VanshMiglani007/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/VanshMiglani007/LeetCode/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/VanshMiglani007/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/VanshMiglani007/LeetCode/tree/master/3896-minimum-operations-to-transform-array-into-alternating-prime) |
 ## Simulation
 |  |
 | ------- |
@@ -163,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/VanshMiglani007/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/VanshMiglani007/LeetCode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/VanshMiglani007/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/VanshMiglani007/LeetCode/tree/master/3896-minimum-operations-to-transform-array-into-alternating-prime) |
 ## Hash Table
 |  |
 | ------- |
@@ -227,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/VanshMiglani007/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/VanshMiglani007/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/VanshMiglani007/LeetCode/tree/master/3896-minimum-operations-to-transform-array-into-alternating-prime) |
 ## Binary Search Tree
 |  |
 | ------- |
