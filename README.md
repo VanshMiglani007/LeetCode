@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/VanshMiglani007/LeetCode/tree/master/0098-validate-binary-search-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/VanshMiglani007/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/VanshMiglani007/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/VanshMiglani007/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/VanshMiglani007/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/VanshMiglani007/LeetCode/tree/master/0098-validate-binary-search-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/VanshMiglani007/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/VanshMiglani007/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/VanshMiglani007/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/VanshMiglani007/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VanshMiglani007/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/VanshMiglani007/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0053-maximum-subarray](https://github.com/VanshMiglani007/LeetCode/tree/master/0053-maximum-subarray) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/VanshMiglani007/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0152-maximum-product-subarray](https://github.com/VanshMiglani007/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/VanshMiglani007/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0228-summary-ranges](https://github.com/VanshMiglani007/LeetCode/tree/master/0228-summary-ranges) |
@@ -247,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/VanshMiglani007/LeetCode/tree/master/0098-validate-binary-search-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/VanshMiglani007/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/VanshMiglani007/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/VanshMiglani007/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/VanshMiglani007/LeetCode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
@@ -254,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/VanshMiglani007/LeetCode/tree/master/0053-maximum-subarray) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/VanshMiglani007/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/VanshMiglani007/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/VanshMiglani007/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Dynamic Programming
