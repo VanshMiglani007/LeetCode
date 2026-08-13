@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/VanshMiglani007/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
+| [0706-design-hashmap](https://github.com/VanshMiglani007/LeetCode/tree/master/0706-design-hashmap) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/VanshMiglani007/LeetCode/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/VanshMiglani007/LeetCode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Recursion
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/VanshMiglani007/LeetCode/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/VanshMiglani007/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/VanshMiglani007/LeetCode/tree/master/0692-top-k-frequent-words) |
+| [0706-design-hashmap](https://github.com/VanshMiglani007/LeetCode/tree/master/0706-design-hashmap) |
 | [0724-find-pivot-index](https://github.com/VanshMiglani007/LeetCode/tree/master/0724-find-pivot-index) |
 | [0804-unique-morse-code-words](https://github.com/VanshMiglani007/LeetCode/tree/master/0804-unique-morse-code-words) |
 | [0877-stone-game](https://github.com/VanshMiglani007/LeetCode/tree/master/0877-stone-game) |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/VanshMiglani007/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/VanshMiglani007/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0692-top-k-frequent-words](https://github.com/VanshMiglani007/LeetCode/tree/master/0692-top-k-frequent-words) |
+| [0706-design-hashmap](https://github.com/VanshMiglani007/LeetCode/tree/master/0706-design-hashmap) |
 | [0771-jewels-and-stones](https://github.com/VanshMiglani007/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/VanshMiglani007/LeetCode/tree/master/0804-unique-morse-code-words) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/VanshMiglani007/LeetCode/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
@@ -382,4 +385,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/VanshMiglani007/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+## Design
+|  |
+| ------- |
+| [0706-design-hashmap](https://github.com/VanshMiglani007/LeetCode/tree/master/0706-design-hashmap) |
+## Hash Function
+|  |
+| ------- |
+| [0706-design-hashmap](https://github.com/VanshMiglani007/LeetCode/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
