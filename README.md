@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/VanshMiglani007/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3527-find-the-most-common-response](https://github.com/VanshMiglani007/LeetCode/tree/master/3527-find-the-most-common-response) |
 | [3668-restore-finishing-order](https://github.com/VanshMiglani007/LeetCode/tree/master/3668-restore-finishing-order) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/VanshMiglani007/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/VanshMiglani007/LeetCode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3731-find-missing-elements](https://github.com/VanshMiglani007/LeetCode/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/VanshMiglani007/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -405,4 +406,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/VanshMiglani007/LeetCode/tree/master/0455-assign-cookies) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/VanshMiglani007/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 <!---LeetCode Topics End-->
