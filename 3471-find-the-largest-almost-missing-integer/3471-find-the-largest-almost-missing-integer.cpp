@@ -18,31 +18,14 @@ public:
         if (k == n) {
             return *max_element(nums.begin(), nums.end());
         }
-        while (k > 1 && k < n) {
-            int l = 0;
-            int r = k-1;
-            int m = k;
-            int f = 0;
-            vector<int> fr(51, 0);
-            while (l <= n-k) {
-                unordered_set<int>st;
-                for(int i=l;i<=r;i++){
-                    st.insert(nums[i]);
-                }
-                for(int x:st){
-                    fr[x]++;
-                }
-                l++;
-                r++;
-            }
-            int lar = -1;
-            for (int i = 0; i < fr.size(); i++) {
-                if (fr[i] == 1) {
-                    lar = max(lar,i);
-                }
-            }
-            return lar;
-        }
-        return -1;
+        int ans = -1;
+
+        if (mp[nums[0]] == 1)
+            ans = max(ans, nums[0]);
+
+        if (mp[nums[n - 1]] == 1)
+            ans = max(ans, nums[n - 1]);
+
+        return ans;
     }
 };
