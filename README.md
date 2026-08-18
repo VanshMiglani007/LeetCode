@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/VanshMiglani007/LeetCode/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/VanshMiglani007/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0258-add-digits](https://github.com/VanshMiglani007/LeetCode/tree/master/0258-add-digits) |
 | [0628-maximum-product-of-three-numbers](https://github.com/VanshMiglani007/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/VanshMiglani007/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0069-sqrtx](https://github.com/VanshMiglani007/LeetCode/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/VanshMiglani007/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0792-number-of-matching-subsequences](https://github.com/VanshMiglani007/LeetCode/tree/master/0792-number-of-matching-subsequences) |
 | [0825-friends-of-appropriate-ages](https://github.com/VanshMiglani007/LeetCode/tree/master/0825-friends-of-appropriate-ages) |
@@ -453,4 +455,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/VanshMiglani007/LeetCode/tree/master/1952-three-divisors) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/VanshMiglani007/LeetCode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
