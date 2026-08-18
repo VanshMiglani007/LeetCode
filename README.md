@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0989-add-to-array-form-of-integer](https://github.com/VanshMiglani007/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/VanshMiglani007/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/VanshMiglani007/LeetCode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1323-maximum-69-number](https://github.com/VanshMiglani007/LeetCode/tree/master/1323-maximum-69-number) |
 | [1551-minimum-operations-to-make-array-equal](https://github.com/VanshMiglani007/LeetCode/tree/master/1551-minimum-operations-to-make-array-equal) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/VanshMiglani007/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1952-three-divisors](https://github.com/VanshMiglani007/LeetCode/tree/master/1952-three-divisors) |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/VanshMiglani007/LeetCode/tree/master/0605-can-place-flowers) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/VanshMiglani007/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/VanshMiglani007/LeetCode/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1323-maximum-69-number](https://github.com/VanshMiglani007/LeetCode/tree/master/1323-maximum-69-number) |
 | [1383-maximum-performance-of-a-team](https://github.com/VanshMiglani007/LeetCode/tree/master/1383-maximum-performance-of-a-team) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/VanshMiglani007/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/VanshMiglani007/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
