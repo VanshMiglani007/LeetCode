@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/VanshMiglani007/LeetCode/tree/master/0724-find-pivot-index) |
 | [0792-number-of-matching-subsequences](https://github.com/VanshMiglani007/LeetCode/tree/master/0792-number-of-matching-subsequences) |
 | [0804-unique-morse-code-words](https://github.com/VanshMiglani007/LeetCode/tree/master/0804-unique-morse-code-words) |
+| [0825-friends-of-appropriate-ages](https://github.com/VanshMiglani007/LeetCode/tree/master/0825-friends-of-appropriate-ages) |
 | [0877-stone-game](https://github.com/VanshMiglani007/LeetCode/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/VanshMiglani007/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0989-add-to-array-form-of-integer](https://github.com/VanshMiglani007/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VanshMiglani007/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0455-assign-cookies](https://github.com/VanshMiglani007/LeetCode/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/VanshMiglani007/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0825-friends-of-appropriate-ages](https://github.com/VanshMiglani007/LeetCode/tree/master/0825-friends-of-appropriate-ages) |
 | [1616-split-two-strings-to-make-palindrome](https://github.com/VanshMiglani007/LeetCode/tree/master/1616-split-two-strings-to-make-palindrome) |
 | [2000-reverse-prefix-of-word](https://github.com/VanshMiglani007/LeetCode/tree/master/2000-reverse-prefix-of-word) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/VanshMiglani007/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/VanshMiglani007/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/VanshMiglani007/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0792-number-of-matching-subsequences](https://github.com/VanshMiglani007/LeetCode/tree/master/0792-number-of-matching-subsequences) |
+| [0825-friends-of-appropriate-ages](https://github.com/VanshMiglani007/LeetCode/tree/master/0825-friends-of-appropriate-ages) |
 | [1383-maximum-performance-of-a-team](https://github.com/VanshMiglani007/LeetCode/tree/master/1383-maximum-performance-of-a-team) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/VanshMiglani007/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/VanshMiglani007/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
@@ -276,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/VanshMiglani007/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/VanshMiglani007/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0792-number-of-matching-subsequences](https://github.com/VanshMiglani007/LeetCode/tree/master/0792-number-of-matching-subsequences) |
+| [0825-friends-of-appropriate-ages](https://github.com/VanshMiglani007/LeetCode/tree/master/0825-friends-of-appropriate-ages) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/VanshMiglani007/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/VanshMiglani007/LeetCode/tree/master/3896-minimum-operations-to-transform-array-into-alternating-prime) |
 ## Binary Search Tree
