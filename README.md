@@ -247,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0006-zigzag-conversion](https://github.com/VanshMiglani007/LeetCode/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/VanshMiglani007/LeetCode/tree/master/0012-integer-to-roman) |
+| [0058-length-of-last-word](https://github.com/VanshMiglani007/LeetCode/tree/master/0058-length-of-last-word) |
 | [0290-word-pattern](https://github.com/VanshMiglani007/LeetCode/tree/master/0290-word-pattern) |
 | [0316-remove-duplicate-letters](https://github.com/VanshMiglani007/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0692-top-k-frequent-words](https://github.com/VanshMiglani007/LeetCode/tree/master/0692-top-k-frequent-words) |
