@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/VanshMiglani007/LeetCode/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/VanshMiglani007/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0258-add-digits](https://github.com/VanshMiglani007/LeetCode/tree/master/0258-add-digits) |
+| [0556-next-greater-element-iii](https://github.com/VanshMiglani007/LeetCode/tree/master/0556-next-greater-element-iii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/VanshMiglani007/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/VanshMiglani007/LeetCode/tree/master/0877-stone-game) |
 | [0989-add-to-array-form-of-integer](https://github.com/VanshMiglani007/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VanshMiglani007/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0321-create-maximum-number](https://github.com/VanshMiglani007/LeetCode/tree/master/0321-create-maximum-number) |
 | [0455-assign-cookies](https://github.com/VanshMiglani007/LeetCode/tree/master/0455-assign-cookies) |
+| [0556-next-greater-element-iii](https://github.com/VanshMiglani007/LeetCode/tree/master/0556-next-greater-element-iii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/VanshMiglani007/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0825-friends-of-appropriate-ages](https://github.com/VanshMiglani007/LeetCode/tree/master/0825-friends-of-appropriate-ages) |
 | [1616-split-two-strings-to-make-palindrome](https://github.com/VanshMiglani007/LeetCode/tree/master/1616-split-two-strings-to-make-palindrome) |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/VanshMiglani007/LeetCode/tree/master/0058-length-of-last-word) |
 | [0290-word-pattern](https://github.com/VanshMiglani007/LeetCode/tree/master/0290-word-pattern) |
 | [0316-remove-duplicate-letters](https://github.com/VanshMiglani007/LeetCode/tree/master/0316-remove-duplicate-letters) |
+| [0556-next-greater-element-iii](https://github.com/VanshMiglani007/LeetCode/tree/master/0556-next-greater-element-iii) |
 | [0692-top-k-frequent-words](https://github.com/VanshMiglani007/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0771-jewels-and-stones](https://github.com/VanshMiglani007/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0792-number-of-matching-subsequences](https://github.com/VanshMiglani007/LeetCode/tree/master/0792-number-of-matching-subsequences) |
