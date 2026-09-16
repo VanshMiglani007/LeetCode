@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/VanshMiglani007/LeetCode/tree/master/0012-integer-to-roman) |
 | [0069-sqrtx](https://github.com/VanshMiglani007/LeetCode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/VanshMiglani007/LeetCode/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/VanshMiglani007/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0258-add-digits](https://github.com/VanshMiglani007/LeetCode/tree/master/0258-add-digits) |
 | [0556-next-greater-element-iii](https://github.com/VanshMiglani007/LeetCode/tree/master/0556-next-greater-element-iii) |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/VanshMiglani007/LeetCode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/VanshMiglani007/LeetCode/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/VanshMiglani007/LeetCode/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/VanshMiglani007/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0435-non-overlapping-intervals](https://github.com/VanshMiglani007/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0792-number-of-matching-subsequences](https://github.com/VanshMiglani007/LeetCode/tree/master/0792-number-of-matching-subsequences) |
@@ -515,5 +517,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/VanshMiglani007/LeetCode/tree/master/0070-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/VanshMiglani007/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
