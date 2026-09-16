@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/VanshMiglani007/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3527-find-the-most-common-response](https://github.com/VanshMiglani007/LeetCode/tree/master/3527-find-the-most-common-response) |
 | [3668-restore-finishing-order](https://github.com/VanshMiglani007/LeetCode/tree/master/3668-restore-finishing-order) |
+| [3693-climbing-stairs-ii](https://github.com/VanshMiglani007/LeetCode/tree/master/3693-climbing-stairs-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/VanshMiglani007/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/VanshMiglani007/LeetCode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/VanshMiglani007/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -344,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/VanshMiglani007/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1137-n-th-tribonacci-number](https://github.com/VanshMiglani007/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [3335-total-characters-in-string-after-transformations-i](https://github.com/VanshMiglani007/LeetCode/tree/master/3335-total-characters-in-string-after-transformations-i) |
+| [3693-climbing-stairs-ii](https://github.com/VanshMiglani007/LeetCode/tree/master/3693-climbing-stairs-ii) |
 ## Greedy
 |  |
 | ------- |
